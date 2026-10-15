@@ -1,0 +1,8 @@
+{
+  "name": "屏東枋寮新龍社區 | 新三漁產業展售中心",
+  "description": "屏東枋寮新龍社區新三漁產業展售中心官方網站，提供頂級龍膽石斑產地直送、雙溫層生鮮購物車、漁村體驗小旅行試算及在地海鮮無菜單料理預約。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
